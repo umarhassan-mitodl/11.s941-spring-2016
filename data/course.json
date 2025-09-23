@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "831e26ed-8ca4-66f5-ab9f-2de88c8c5bef",
+  "instructors": {
+    "content": [
+      "cf1a6f38-32de-2d0a-552e-546448a2eb9f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f53419d-a41d-6c6e-99e8-9608894a09de",
+    "website": "11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016"
+  },
+  "course_title": "Healthy Cities: Assessing Health Impacts of Policies and Plans",
+  "course_description": "This class examines the built, psychosocial, economic, and natural environment factors that affect health behaviors and outcomes. Students will be introduced to tools designed to integrate public health considerations into policy making and planning, and will be given hands-on training on the application of Health Impact Assessment (HIA) methodology. This class is designed to prepare graduate students from planning and policy fields to interface with public health organizations, agencies, or advocacy groups in professional contexts.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S941",
+  "course_image_thumbnail": {
+    "content": "193121b8-7536-cf6c-573d-ee7c0f6f5963",
+    "website": "11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "363eaf00-ee39-49ad-85c8-68bc23d72dea",
+  "site_short_id": "11.s941-spring-2016",
+  "site_url_path": "courses/11-s941-healthy-cities-assessing-health-impacts-of-policies-and-plans-spring-2016",
+  "title": "Course Metadata"
+}
