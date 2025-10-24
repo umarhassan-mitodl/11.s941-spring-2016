@@ -29,12 +29,12 @@ These diagrams are often complex and dynamic and often involve numerous exposure
 
 The potential links should be based on evidence from relevant literature, the stakeholder process, and professional and expert opinion. A good pathway diagram does not include all possible effects of the planned decision, but only those with evidence behind them and plausible health connections. The diagram should visually show the connections you have identified, and you should be able defend those pathways during your presentation.
 
-The diagrams do not need to follow a specific structure; please view {{% resource_link "549b8d47-8ba1-49ab-b5a9-c42cb01d270f" "pathway diagram examples from Human Impact Partners(PDF)" %}}.
+The diagrams do not need to follow a specific structure; please view [pathway diagram examples from Human Impact Partners(PDF)](http://www.humanimpact.org/downloads/examples-of-pathway-diagrams-linking-projects-plans-and-policies-to-health-outcomes/).
 
 Critique of published HIA (individual assignment 500–700 words)
 ---------------------------------------------------------------
 
-Read through several {{% resource_link "03c3d76d-a022-4f71-8d67-e527142825df" "published HIAs from the Pew Charitable Trust website" %}}, and choose one to critique.
+Read through several [published HIAs from the Pew Charitable Trust website](http://www.pewtrusts.org/en/multimedia/data-visualizations/2015/hia-map), and choose one to critique.
 
 ### Learning Objectives
 
