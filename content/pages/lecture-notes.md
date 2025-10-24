@@ -10,7 +10,7 @@ uid: 4a6c1e42-399a-1e23-75e5-ac3737993737
 ---
 {{< resource uuid="3606e42d-499a-1998-9b5d-dee203915cc8" >}}
 
-Image by {{% resource_link "5b482b1a-038a-436b-9ace-f4b9315754cf" "Geoff Maddock" %}} on Flickr. CC BY-NC.
+Image by [Geoff Maddock](https://flic.kr/p/4zTFVm) on Flickr. CC BY-NC.
 
 Below are selected lecture notes from class.
 
